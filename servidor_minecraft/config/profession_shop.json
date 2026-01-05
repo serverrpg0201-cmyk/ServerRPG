@@ -1,0 +1,42 @@
+{
+  "farming": [
+    {
+      "itemId": "minecraft:diamond_hoe",
+      "quantity": 1,
+      "currencyItemId": "minecraft:emerald",
+      "currencyQuantity": 6,
+      "requiredProfession": "farming",
+      "requiredLevel": 20,
+      "displayName": "Diamond Hoe"
+    },
+    {
+      "itemId": "minecraft:golden_carrot",
+      "quantity": 16,
+      "currencyItemId": "minecraft:emerald",
+      "currencyQuantity": 2,
+      "requiredProfession": "farming",
+      "requiredLevel": 10,
+      "displayName": "Golden Carrots"
+    }
+  ],
+  "mining": [
+    {
+      "itemId": "minecraft:diamond_pickaxe",
+      "quantity": 1,
+      "currencyItemId": "minecraft:diamond",
+      "currencyQuantity": 8,
+      "requiredProfession": "mining",
+      "requiredLevel": 15,
+      "displayName": "Diamond Pickaxe"
+    },
+    {
+      "itemId": "minecraft:netherite_ingot",
+      "quantity": 1,
+      "currencyItemId": "minecraft:diamond",
+      "currencyQuantity": 4,
+      "requiredProfession": "mining",
+      "requiredLevel": 25,
+      "displayName": "Netherite Ingot"
+    }
+  ]
+}

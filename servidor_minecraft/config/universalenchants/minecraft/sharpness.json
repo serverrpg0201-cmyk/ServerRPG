@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "farmersdelight:skillet",
+    "farmersdelight:flint_knife",
+    "farmersdelight:iron_knife",
+    "farmersdelight:diamond_knife",
+    "farmersdelight:netherite_knife",
+    "farmersdelight:golden_knife",
+    "cuisinedelight:cuisine_skillet",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "mutantmonsters:endersoul_hand",
+    "twilightforest:block_and_chain",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": []
+}

@@ -1,0 +1,21 @@
+{
+	id: "70dd5f8e-a5ca-4a58-9792-8af82343f94b"
+	type: "party"
+	owner: "92e7309b-c6f5-3fb7-8e74-00dee8a94406"
+	ranks: {
+		f28668bc-b5ca-3955-912d-c3fbebb7e883: "ally"
+		92e7309b-c6f5-3fb7-8e74-00dee8a94406: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Leandreke's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767574354890L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Leandreke\"}]}" }
+		{ from: "92e7309b-c6f5-3fb7-8e74-00dee8a94406", date: 1767574367991L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Kronnotrex_1313\"}]}" }
+	]
+	extra: { }
+}

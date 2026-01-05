@@ -1,0 +1,11 @@
+{
+  "entityId": "minecraft:zombie",
+  "takeNormalDamage": false,
+  "takeMobDamage": false,
+  "takeGenericSpellDamage": false,
+  "takeMineSlashSpellDamage": false,
+  "takeIronSpellDamage": false,
+  "canDamagePlayer": true,
+  "cancelAggroTime": 5,
+  "neutralUntilAttacked": false
+}

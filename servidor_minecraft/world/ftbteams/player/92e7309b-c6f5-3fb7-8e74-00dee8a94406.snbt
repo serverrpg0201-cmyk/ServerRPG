@@ -1,0 +1,15 @@
+{
+	id: "92e7309b-c6f5-3fb7-8e74-00dee8a94406"
+	type: "player"
+	player_name: "Leandreke"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Leandreke"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

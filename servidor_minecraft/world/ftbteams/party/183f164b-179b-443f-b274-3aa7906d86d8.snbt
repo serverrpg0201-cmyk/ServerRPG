@@ -1,0 +1,17 @@
+{
+	id: "183f164b-179b-443f-b274-3aa7906d86d8"
+	type: "party"
+	owner: "f28668bc-b5ca-3955-912d-c3fbebb7e883"
+	ranks: {
+		f28668bc-b5ca-3955-912d-c3fbebb7e883: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "laba"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFEA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1767574316590L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Kronnotrex_1313\"}]}" }]
+	extra: { }
+}

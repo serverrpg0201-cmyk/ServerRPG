@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "farmersdelight:skillet",
+    "cuisinedelight:cuisine_skillet",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "mutantmonsters:endersoul_hand"
+  ],
+  "incompatible": []
+}

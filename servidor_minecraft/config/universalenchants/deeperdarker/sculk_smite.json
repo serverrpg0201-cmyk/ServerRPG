@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "farmersdelight:skillet",
+    "cuisinedelight:cuisine_skillet",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "mutantmonsters:endersoul_hand",
+    "twilightforest:block_and_chain"
+  ],
+  "incompatible": [
+    "minecraft:impaling",
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite"
+  ]
+}

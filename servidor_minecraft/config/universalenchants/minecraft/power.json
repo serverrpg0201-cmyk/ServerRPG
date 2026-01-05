@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "roe_weapons:crossbow_0",
+    "roe_weapons:crossbow_1",
+    "roe_weapons:crossbow_2",
+    "roe_weapons:crossbow_3",
+    "roe_weapons:crossbow_4",
+    "roe_weapons:crossbow_5",
+    "roe_weapons:crossbow_6",
+    "roe_weapons:crossbow_7",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": []
+}
